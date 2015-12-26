@@ -1,0 +1,11 @@
+Procom Announcement module procom-module-1.1.0 is plugin for elastix system.
+compatible with elastix version: 2.5.0
+
+Installing procedure:
+copy the procom-module-1.1.0.tgz to local directory 
+eg: /usr/local/src and use following commands to install
+
+tar xvzf procom-module-1.1.0.tgz
+cd procom-module-1.1.0
+./install.sh
+
